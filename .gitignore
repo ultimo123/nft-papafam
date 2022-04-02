@@ -6,6 +6,10 @@
 .pnp.js
 yarn.lock
 
+
+/sanity/node_modules
+/sanity/yarn.lock
+
 # testing
 /coverage
 
